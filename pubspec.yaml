@@ -1,0 +1,39 @@
+name: linguatouch
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.4+3
+  flutter_tts: ^4.0.2
+  permission_handler: ^10.3.0
+  flutter_localizations:
+    sdk: flutter
+
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  intl: ^0.18.0
+  connectivity_plus: ^5.0.2
+  camera: ^0.10.0
+  file_picker: ^4.0.0  # Add file_picker dependency here
+  http: ^1.2.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/photo1.jpg
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/InterRegular.ttf
+          weight: 400
+    - family: Archivo Narrow
+      fonts:
+        - asset: assets/fonts/ArchivoNarrowRomanRegular.ttf
+          weight: 400
