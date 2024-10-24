@@ -2,6 +2,7 @@
 # linguatouch
 ### Table of contents
 - [System requirements](#system-requirements)
+- [Installation](#Installation)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
 - [Check the UI of the entire app](#app-navigations)
 - [Application structure](#project-structure)
@@ -14,6 +15,21 @@
 
 Dart SDK Version 3.3.2 or greater.
 Flutter SDK Version 3.19.4 or greater.
+
+### Installation
+- Clone the repository:
+  ```
+  git clone https://github.com/kmaxay/linguatouch.git
+  cd linguatouch 
+  ```
+  - Install dependencies:
+  ```
+  flutter pub get 
+  ```
+  - Run the app:
+  ```
+  flutter run 
+  ```
 
 ### Figma design guidelines for better UI accuracy
 
@@ -56,4 +72,4 @@ Resolve the errors and warnings that are shown in the application.
 
 ### Support
 
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+If you have any problems or questions, go to our Gmail channel, where we will help you as quickly as possible: kmakshaykrishnan@gmail.com
