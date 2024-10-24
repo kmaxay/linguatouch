@@ -70,6 +70,14 @@ After successful build, your application structure should look like this:
 
 Resolve the errors and warnings that are shown in the application.
 
+### Libraries and Tools Used
+
+- **Flutter**: Framework for building the mobile app.
+- **Dart**: Programming language used for Flutter development.
+- **Firebase**: For authentication and data storage.
+
+
+
 ### Support
 
 If you have any problems or questions, go to our Gmail channel, where we will help you as quickly as possible: kmakshaykrishnan@gmail.com
