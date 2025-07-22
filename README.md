@@ -30,22 +30,6 @@ Make sure you have the following installed:
 
 Follow these steps to get the app running locally:
 
-## App Structure
-├── android/                   # Android platform files
-├── ios/                       # iOS platform files
-├── assets/                    # Fonts, images, and other assets
-├── lib/
-│   ├── main.dart              # Entry point of the application
-│   ├── core/
-│   │   ├── app_export.dart    # Common imports
-│   │   ├── constants/         # App-wide constant values
-│   │   └── utils/             # Utility functions
-│   ├── presentation/          # All UI screens
-│   ├── routes/                # Navigation route definitions
-│   ├── theme/                 # App themes and decorations
-│   └── widgets/               # Reusable custom widgets
-
-
 ```bash
 git clone https://github.com/kmaxay/linguatouch.git
 cd linguatouch
